@@ -1,0 +1,52 @@
+[
+{
+    "title" :" Jack’s parents ________ and so I am sure they would love to go to the exhibition.",
+    "answer-1":"like Picasso’s paintings very much",
+    "answer-2":"like very much Picasso’s paintings",
+    "answer-3":"much Picasso’s paintings like",
+    "answer-4":"much like Picasso’s paintings",
+    "right_answer":"like Picasso’s paintings very much"
+},
+{
+    "title" :" The fire _______________ an electrical fault.",
+    "answer-1":" is caused",
+    "answer-2":"were caused",
+    "answer-3":"was caused by",
+    "answer-4":"caused by",
+    "right_answer":"was caused by"
+},
+{
+    "title" :"The suitcase had a magnetic lock.",
+    "answer-1":"Suitcase ",
+    "answer-2":"Lock",
+    "answer-3":"Magnetic",
+    "answer-4":"None of these",
+    "right_answer":"Magnetic"
+},
+{
+    "title" :"Which sentence is NOT correct? ",
+    "answer-1":"If you don´t study for the test, you will get a bad grade ",
+    "answer-2":"You won’t lose any weight if you keep eating junk food.",
+    "answer-3":"If you will study for the test, you will get good grades.",
+    "answer-4":"None of these",
+    "right_answer":"If you will study for the test, you will get good grades."
+},
+{
+    "title" :" to wipe out",
+    "answer-1":" dilemma ",
+    "answer-2":"efface",
+    "answer-3":"debris",
+    "answer-4":"None of these",
+    "right_answer":"efface"
+},
+{
+    "title" :" Stanley is used to … 8 hours every day. He is very hard-working.",
+    "answer-1":"working ",
+    "answer-2":"work",
+    "answer-3":"works",
+    "answer-4":"worked",
+    "right_answer":"working"
+}
+
+
+]
